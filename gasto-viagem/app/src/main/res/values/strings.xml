@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">gasto-viagem</string>
+    <string name="valor_gasto">0</string>
+</resources>
